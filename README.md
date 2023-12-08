@@ -1,2 +1,2 @@
 # heron_inc_
-O site que serão postados os meu projetos e anotações.
+O site que será postados os meu projetos e anotações.
