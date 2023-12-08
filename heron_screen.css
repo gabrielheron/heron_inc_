@@ -1,0 +1,21 @@
+element.style {
+
+}
+
+div.barra_principal {
+    color: rgb(100,100,100);
+    border-color:black;
+}
+
+div.barra_principal {
+    background-color: rgb(112, 145, 245);
+    width: 100%;
+}
+
+div.barra_principal {
+    border-bottom: 1px solid;
+}
+
+div {
+    display: block;
+}

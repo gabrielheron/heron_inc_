@@ -1,2 +1,35 @@
 /* Estilos em Geral */
 
+body {
+    background-color: rgb(255, 253, 140);
+    border:;
+}
+
+head {
+    background-color:;
+    border: ;
+}
+
+.titulo {
+    text-align: center;
+    font-size: 30px;
+
+}
+
+h2 {
+    border: 1px solid #ccc;
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h3 {
+    border: 1px solid #ccc;
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.conteudo {
+    border: 1px solid #ccc;
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
